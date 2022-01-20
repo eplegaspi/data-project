@@ -1,4 +1,4 @@
-# data-project
+# Data Project
 
 # Sample Text Extract with PDF (pdf.py)
 Edmond P. Legaspi
