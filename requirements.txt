@@ -1,0 +1,7 @@
+boto3
+Pillow
+textract-trp
+setuptools 
+wheel
+spacy
+
