@@ -1,6 +1,6 @@
 # Data Project
 
-# Sample Text Extract with PDF (pdf.py)
+# Sample Text Extract with PDF (text_extract_pdf.py)
 Edmond P. Legaspi
 Education
 2012-2017
@@ -100,7 +100,7 @@ Version Control: Codecommit
 Apache Kafka Series - Learn Apache Kafka for Beginners v2 -- Udemy
 Ultimate AWS Certified Developer Associate 2019 - Udemy
 
-# Sample Named Entity Recognition (named_entities.py)
+# Sample Named Entity Recognition (name_entities_recognition.py)
 ```
 Calling DetectEntities
 {
